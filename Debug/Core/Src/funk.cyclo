@@ -1,0 +1,5 @@
+../Core/Src/funk.c:17:6:transmit	1
+../Core/Src/funk.c:29:6:sendSequence	4
+../Core/Src/funk.c:50:6:delay350Microseconds	3
+../Core/Src/funk.c:60:6:stecker_schalten	2
+../Core/Src/funk.c:71:6:steckerAn	1
